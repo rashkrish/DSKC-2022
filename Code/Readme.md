@@ -1,1 +1,1 @@
-This contain code for the project.
+This folder contains the code for the generation of mock data samples using statistical methods.
