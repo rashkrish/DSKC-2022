@@ -11,7 +11,7 @@
 - Developed Python code for a slope parameter $\beta$ to quantify the redshift (z) evolution of local Dispersion Measure of Fast Radio Burst (FRB) host galaxy denoted by $DM_{HG,loc}$.
 - Evaluated and visualized the influence of different cosmological and host galaxy parameters on Dispersion Measure and its evolution with redshift.
 - Demonstrated trends and deviations through rigorous computational modelling and visualization.
-- Generated data for FRBs for dispersion measure of host galaxies that also constrains $\Lambda$CDM model of host galaxies and tested the model for 500 data points for specific z=3.
+- Generated data for FRBs for dispersion measure of host galaxies that also constrains $\Lambda$ CDM model of host galaxies and tested the model for 500 data points for specific z=3.
 - Developed Python code to demonstrate Monte Carlo simulations that the average value of the local host galaxy dispersion measure, along with other cosmological parameters (such as mass density in $\Lambda$CDM model and the Intergalactic medium component of the baryon energy density) can be measured independently using minimum chi-square fitting to the data. 
 
 ### OVERVIEW
