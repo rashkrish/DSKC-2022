@@ -8,7 +8,7 @@
 <br/>
 **Key Contributions:**
 - Developed Python code to implement the Monte Carlo method, likelihood analysis, chi-square analysis, and Markov Chain Monte Carlo method.
-- Developed code for a slope parameter $\beta$
+- Developed code for a slope parameter $\beta$ to quantify the redshift evolution of local Dispersion Measure (DM) of Fast Radio Burst (FRB) host galaxy. 
 
 
 ### OVERVIEW
