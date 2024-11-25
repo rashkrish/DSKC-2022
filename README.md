@@ -12,7 +12,7 @@
 - Evaluated and visualized the influence of different cosmological and host galaxy parameters on Dispersion Measure and its evolution with redshift.
 - Demonstrated trends and deviations through rigorous computational modelling and visualization.
 - Generated data for FRBs for dispersion measure of host galaxies that also constrains $\Lambda CDM$ model of host galaxies and tested the model for 500 data points for specific z=3.
-- Developed Python code to demonstrate Monte Carlo simulations that the average value of the local host galaxy dispersion measure, along with other cosmological parameters (such as mass density in $\Lambda$CDM model and the Intergalactic medium component of the baryon energy density) can be measured independently using minimum chi-square fitting to the data. 
+- Developed Python code to demonstrate Monte Carlo simulations that the average value of the local host galaxy dispersion measure, along with other cosmological parameters (such as mass density in $\Lambda CDM$ model and the Intergalactic medium component of the baryon energy density) can be measured independently using minimum chi-square fitting to the data. 
 
 ### OVERVIEW
 This project combined computational analysis with an extensive literature review to replicate and analyze findings from a study by *Yang Pei Yuan and Bing Zhang (2016)*. 
