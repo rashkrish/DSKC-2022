@@ -7,7 +7,8 @@
 **Team Members:** Aditi Sharma, Nupur Rajesh Deshpande, Shakshi<br/>
 <br/>
 **Key Contributions:**
--Developed Python code to implement the Monte Carlo method, likelihood analysis, chi-square analysis, and Markov Chain Monte Carlo method.
+- Developed Python code to implement the Monte Carlo method, likelihood analysis, chi-square analysis, and Markov Chain Monte Carlo method.
+- Developed code for a slope parameter $\beta$
 
 
 ### OVERVIEW
