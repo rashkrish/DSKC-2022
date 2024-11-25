@@ -16,4 +16,4 @@
 
 ### OVERVIEW
 This project combined computational analysis with an extensive literature review to replicate and analyze findings from a study by *Yang Pei Yuan and Bing Zhang (2016)*. 
-<> The objective was to evaluate the effectiveness of the Markov Chain Monte Carlo method in generating data for the dispersion measure of Fast Radio Bursts (FRBs) host galaxies and to apply various statistical tools to constrain the ΛCDM model.
+< (The objective was to evaluate the effectiveness of the Markov Chain Monte Carlo method in generating data for the dispersion measure of Fast Radio Bursts (FRBs) host galaxies and to apply various statistical tools to constrain the ΛCDM model.) >
