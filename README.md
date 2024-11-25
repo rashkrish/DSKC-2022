@@ -1,11 +1,14 @@
 # D.S. Kothari Centre for Research and Innovation (DSKC-2022)
 *BSc 3rd Year*
-## Project Tile: Constraining ΛCDM Model and Dispersion Measure of Host Galaxies Using Statistical Tools on FRBs
-*Mentor: Assoc. Prof. Abha Dev Habib (Miranda House, University of Delhi), Asst. Prof. Nisha Rani (Miranda House, University of Delhi)*<br/>
+## Project: Constraining ΛCDM Model and Dispersion Measure of Host Galaxies Using Statistical Tools on FRBs
+***Mentor:** Assoc. Prof. Abha Dev Habib (Miranda House, University of Delhi), Asst. Prof. Nisha Rani (Miranda House, University of Delhi)*<br/>
 <br/>
 **Role:** Team Member<br/>
 **Team Members:** Aditi Sharma, Nupur Rajesh Deshpande, Shakshi<br/>
+<br/>
+**Key Contributions:**
+-Developed Python code to implement the Monte Carlo method, likelihood analysis, chi-square analysis, and Markov Chain Monte Carlo method.
 
-I collaborated on a team project during a summer workshop, combining computational analysis with an extensive literature review. In this project, we replicated and analyzed the findings of a study by Yang Pei Yuan and Bing Zhang. The aim was to investigate the effectiveness of the Markov Chain Monte Carlo method in generating data for the dispersion measure of host galaxies in Fast Radio Bursts (FRBs) while also applying various statistical tools to constrain the ΛCDM Model.
 
-- I acquired proficiency in techniques such as the Monte Carlo method, likelihood analysis, chi-square analysis, and Markov Chain Monte Carlo method. I implemented these algorithms within a Python environment and conducted rigorous testing of the model using both 50 and 500 data points, enhancing the reliability and comprehensiveness of the analysis.
+### OVERVIEW
+This project combined computational analysis with an extensive literature review to replicate and analyze findings from a study by Yang Pei Yuan and Bing Zhang. The objective was to evaluate the effectiveness of the Markov Chain Monte Carlo method in generating data for the dispersion measure of host galaxies in Fast Radio Bursts (FRBs) and to apply various statistical tools to constrain the ΛCDM model.
