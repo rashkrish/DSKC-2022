@@ -1,6 +1,10 @@
-# DSKC-2022
+# D.S. Kothari Centre for Research and Innovation (DSKC-2022)
 *BSc 3rd Year*
 ## Project Tile: Constraining ΛCDM Model and Dispersion Measure of Host Galaxies Using Statistical Tools on FRBs
+*Mentor: Assoc. Prof. Abha Dev Habib (Miranda House, University of Delhi), Asst. Prof. Nisha Rani (Miranda House, University of Delhi)*<br/>
+<br/>
+**Role:** Team Member<br/>
+**Team Members:** Aditi Sharma, Nupur Rajesh Deshpande, Shakshi<br/>
 
 I collaborated on a team project during a summer workshop, combining computational analysis with an extensive literature review. In this project, we replicated and analyzed the findings of a study by Yang Pei Yuan and Bing Zhang. The aim was to investigate the effectiveness of the Markov Chain Monte Carlo method in generating data for the dispersion measure of host galaxies in Fast Radio Bursts (FRBs) while also applying various statistical tools to constrain the ΛCDM Model.
 
