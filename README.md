@@ -1,7 +1,7 @@
 # D.S. Kothari Centre for Research and Innovation (DSKC-2022)
 *BSc 3rd Year*
 ## Project: Constraining ΛCDM Model and Dispersion Measure of Host Galaxies Using Statistical Tools on FRBs
-***Mentors:** Assoc. Prof. Abha Dev Habib (Miranda House, University of Delhi), Asst. Prof. Nisha Rani (Miranda House, University of Delhi)*<br/>
+***Supervisors:** Assoc. Prof. Abha Dev Habib (Miranda House, University of Delhi), Asst. Prof. Nisha Rani (Miranda House, University of Delhi)*<br/>
 <br/>
 **Role:** Team Member<br/>
 **Team Members:** Aditi Sharma, Nupur Rajesh Deshpande, Shakshi<br/>
