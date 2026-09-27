@@ -4,9 +4,9 @@
 ***Supervisors:** Assoc. Prof. Abha Dev Habib (Miranda House, University of Delhi), Asst. Prof. Nisha Rani (Miranda House, University of Delhi)*<br/>
 <br/>
 **Role:** Team Member<br/>
-**Team Members:** Aditi Sharma, Nupur Rajesh Deshpande, Shakshi<br/>
+**Team Members:** Rashmi Sarwal, Aditi Sharma, Nupur Rajesh Deshpande, Shakshi<br/>
 <br/>
-**Key Contributions:**
+**My Contributions:**
 - Developed Python code to implement the Monte Carlo method, likelihood analysis, chi-square analysis, and the Markov Chain Monte Carlo (MCMC) method for statistical modelling and analysis.
 - Developed Python code to calculate a slope parameter $\beta$ to quantify the redshift (z) evolution of local Dispersion Measure of Fast Radio Burst (FRB) host galaxy denoted by $DM_{HG,loc}$.
 - Evaluated and visualized the influence of different cosmological and host galaxy parameters on Dispersion Measure and its evolution with redshift.
