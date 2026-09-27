@@ -3,7 +3,6 @@
 ## Project: Constraining ΛCDM Model and Dispersion Measure of Host Galaxies Using Statistical Tools on FRBs
 ***Supervisors:** Assoc. Prof. Abha Dev Habib (Miranda House, University of Delhi), Asst. Prof. Nisha Rani (Miranda House, University of Delhi)*<br/>
 <br/>
-**Role:** Team Member<br/>
 **Team Members:** Rashmi Sarwal, Aditi Sharma, Nupur Rajesh Deshpande, Shakshi<br/>
 <br/>
 **My Contributions:**
